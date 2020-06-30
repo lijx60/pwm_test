@@ -1,2 +1,2 @@
 # pwm_test
-the first resository
+it is  my first resository,i hope to succeed .
